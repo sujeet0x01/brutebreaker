@@ -15,3 +15,15 @@ BruteBreaker is a powerful and efficient brute-force tool designed for ethical h
 - Progress Indicators: Includes a spinner, progress bar, and colorful banners for a polished UI.
 - Customizable: Supports user-defined username and password files for testing.
 - Responsibility Focused: Designed for ethical purposes only, promoting secure practices.
+
+# Installation
+
+## For Android
+Download [Termux](https://f-droid.org/en/packages/com.termux/)
+
+``` bash
+pkg update
+pkg upgrade
+pkg install git
+pkg install python
+```
