@@ -27,5 +27,7 @@ pkg upgrade
 pkg install git
 pkg install python
 pip install requests beautifulsoup4
-git clone 
+git clone https://github.com/sujeet0x01/brutebreaker
+cd BruteBreaker.py
+python BruteBreaker.py
 ```
