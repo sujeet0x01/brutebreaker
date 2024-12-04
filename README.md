@@ -10,8 +10,8 @@ BruteBreaker is a powerful and efficient brute-force tool designed for ethical h
 
 ## Key Features
 
--Automatic Detection: Identifies username, password, and token fields in web forms.
--Token Support: Handles CSRF tokens automatically for secure requests.
--Progress Indicators: Includes a spinner, progress bar, and colorful banners for a polished UI.
--Customizable: Supports user-defined username and password files for testing.
--Responsibility Focused: Designed for ethical purposes only, promoting secure practices.
+- Automatic Detection: Identifies username, password, and token fields in web forms.
+- Token Support: Handles CSRF tokens automatically for secure requests.
+- Progress Indicators: Includes a spinner, progress bar, and colorful banners for a polished UI.
+- Customizable: Supports user-defined username and password files for testing.
+- Responsibility Focused: Designed for ethical purposes only, promoting secure practices.
