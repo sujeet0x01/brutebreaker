@@ -45,6 +45,6 @@ python3 BruteBreaker.py
 
 # Screenshots
 
-[![asciicast](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz.png)](https://giphy.com/gifs/OsWVk7T1qXl03YCU1F)
+[![asciicast](https://giphy.com/gifs/OsWVk7T1qXl03YCU1F)]
 
 ![alt logo](https://giphy.com/gifs/OsWVk7T1qXl03YCU1F)
