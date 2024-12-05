@@ -28,7 +28,7 @@ pkg install git
 pkg install python
 pip install requests beautifulsoup4
 git clone https://github.com/sujeet0x01/brutebreaker
-cd BruteBreaker
+cd brutebreaker
 python BruteBreaker.py
 ```
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
@@ -38,7 +38,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip git -y
 pip3 install requests beautifulsoup4
 git clone https://github.com/sujeet0x01/brutebreaker
-cd BruteBreaker
+cd brutebreaker
 chmod +x BruteBreaker.py
 python3 BruteBreaker.py
 ```
